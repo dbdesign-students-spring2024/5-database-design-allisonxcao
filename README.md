@@ -107,7 +107,7 @@ pk=student_id
 
 
 ## Entity Relationship Diagram
-![ER](/images/erd.drawio) 
+![ER](/images/erdiagram.png) 
 
 
 ## Changes made
